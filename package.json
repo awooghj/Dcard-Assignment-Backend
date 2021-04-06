@@ -5,7 +5,9 @@
   "main": "dcard.js",
   "dependencies": {
     "express": "^4.17.1",
-    "express-rate-limit": "^5.2.6"
+    "express-rate-limit": "^5.2.6",
+    "moment": "^2.29.1",
+    "redis": "^3.1.0"
   },
   "devDependencies": {},
   "scripts": {
